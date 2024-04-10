@@ -1,1 +1,3 @@
-Simualting
+Simulate flying boids. 
+Boids is an artificial life simulation originally developed by Craig Reynolds. 
+The code creates a gif of flying boids as the final result.
