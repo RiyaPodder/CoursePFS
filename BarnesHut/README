@@ -1,0 +1,1 @@
+Code to simulate movement of galaxies and whether they collide. Using Barnes-Hut which is  is an approximation algorithm for performing an n-body simulation.
